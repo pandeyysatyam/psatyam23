@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pandeyysatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pandeyysatyam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pandeyysatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandeyysatyam" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/pandeyy.satyam?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/pandeyy.satyam?utm_source=qr&igshid=zdc4odbmnjlmnq%3d%3d" height="30" width="40" /></a>
 <a href="https://hashnode.com/@satyampandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@satyampandey" height="30" width="40" /></a>
 </p>
