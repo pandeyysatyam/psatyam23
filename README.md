@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **satyampande2006@gmail.com**
 
-- ⚡ Fun fact **🌟 Honey never spoils! Archaeologists found 3,000-year-old honey still edible. 🍯**
+- ⚡ FUN FACT **🌟 Honey never spoils! Archaeologists found 3,000-year-old honey still edible. 🍯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
